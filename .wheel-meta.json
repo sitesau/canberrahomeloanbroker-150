@@ -1,0 +1,18 @@
+{
+  "wheel_id": 94,
+  "structure": "umbrella",
+  "slug": "canberrahomeloanbroker-150",
+  "project": "home-loan-broker-canberra-c-150",
+  "parent_t1_ref": "canberrahomeloanbroker-001",
+  "node_role": "buffer",
+  "money_target": "canberrahomeloanbroker.com.au",
+  "primary_kw": "home loan broker canberra",
+  "intended_url": "https://home-loan-broker-canberra-c-150.surge.sh/",
+  "links": [
+    {
+      "target_url": "https://home-loan-broker-canberra-guide.pages.dev/",
+      "anchor": "home loan broker canberra",
+      "rel": "follow"
+    }
+  ]
+}
